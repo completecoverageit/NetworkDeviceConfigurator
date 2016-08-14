@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Network Device</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Network_Device_Programmer">Network Device Programmer</string>
+    <string name="Router">Router</string>
+    <string name="Access_Point">Access Point</string>
+    <string name="Switch">Switch</string>
+    <string name="New">New</string>
+    <string name="Existing">Existing</string>
+    <string name="Model">Model #</string>
+
+
+</resources>
